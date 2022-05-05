@@ -1,2 +1,2 @@
 # Kaggle-Bank-deposit-prediction
-the aim is to maximize the privage leaderboard score for this competition 
+the aim is to maximize the private leaderboard score for this competition 
